@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "##This is a markdown file",
+    "contents" : "## This is a markdown file",
     "created" : 1588611996145.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2838165680",
+    "hash" : "3398810732",
     "id" : "3257A975",
-    "lastKnownWriteTime" : 1588612053,
-    "last_content_update" : 1588612053163,
+    "lastKnownWriteTime" : 1588615954,
+    "last_content_update" : 1588615954535,
     "path" : "~/R/datasciencecoursera/HelloWorld.md",
     "project_path" : "HelloWorld.md",
     "properties" : {
